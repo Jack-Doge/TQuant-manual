@@ -143,6 +143,12 @@ plugins:
 # Page tree
 nav:
   - 首頁: index.md
+  - 快速入門:
+      - 新手必讀: quickstart/getting-started.md
+      - 10分鐘體驗: quickstart/quick-demo.md
+      - 環境建置: quickstart/setup.md
+      - 第一個策略: quickstart/first-strategy.md
+      - 常用功能速查: quickstart/quick-reference.md
   - 技術手冊: 
       - TQuant Lab 安裝 (Installation): example/documents1.md
       - TQuant Lab 分析流程 (Workflow): example/documents2.md

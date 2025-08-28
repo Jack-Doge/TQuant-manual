@@ -13,6 +13,64 @@
 
 ---
 
+# 🚀 新手快速上手
+
+第一次使用 TQuant Lab？我們設計了完整的學習路徑，讓您在兩週內熟悉所有核心功能！
+
+<div class="grid cards" markdown>
+
+-   :material-rocket-launch-outline: **立即開始**
+
+    ---
+    
+    從零開始，快速建置環境並體驗第一次回測
+
+    [:octicons-arrow-right-24: 新手必讀](quickstart/getting-started.md)
+
+-   :material-clock-fast: **10分鐘體驗**
+
+    ---
+    
+    快速執行一個完整的投資策略，立即看到結果
+
+    [:octicons-arrow-right-24: 開始體驗](quickstart/quick-demo.md)
+
+-   :material-cog-outline: **環境建置**
+
+    ---
+    
+    三種安裝方式任選，推薦使用 Docker 一鍵安裝
+
+    [:octicons-arrow-right-24: 安裝教學](quickstart/setup.md)
+
+-   :material-strategy: **建立策略**
+
+    ---
+    
+    學會建立第一個投資策略，從基礎到進階
+
+    [:octicons-arrow-right-24: 策略開發](quickstart/first-strategy.md)
+
+-   :material-book-search-outline: **功能速查**
+
+    ---
+    
+    常用程式碼快速查找，提高開發效率
+
+    [:octicons-arrow-right-24: 速查表](quickstart/quick-reference.md)
+
+-   :material-school-outline: **完整教學**
+
+    ---
+    
+    深入學習所有進階功能和專業技巧
+
+    [:octicons-arrow-right-24: 技術手冊](example/documents1.md)
+
+</div>
+
+---
+
 # 產品內容介紹
 
 ## TQuant Lab — 一站式的量化研究平台
