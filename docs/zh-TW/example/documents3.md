@@ -1,4 +1,4 @@
-# TEJTOOLAPI 資料撈取整併
+# TEJTOOLAPI 資料撈取整併 
 運用 TEJTOOLAPI 整併資料。TEJTOOLAPI 主要整併股價與不同屬性的資料庫，透過輸入股票代碼 (TICKERS) 和欄位 (FIELD) 後，可將欲抓取的資料整併為以日頻率的 DataFrame。
 
 目前可抓取的資料庫為：

@@ -155,7 +155,7 @@ nav:
       - 擬真量化回測引擎 (Zipline):
           - 新手教學(Simple Example): example/documents3.md
           - 資料(Data): 
-              - Ingest 價量資料(Ingest Pricing Data): example/docume.md
+              - Ingest 價量資料(Ingest Pricing Data): example/_fixme.md
               - Ingest 非價量資料(Ingest Fundamental Data): example/documents9.md
               - 取得 benchmark 報酬率 (Get Risk-Free Rate): example/documents10.md
               - 取得無風險利率 (Get Benchmark Roi): example/documents11.md
