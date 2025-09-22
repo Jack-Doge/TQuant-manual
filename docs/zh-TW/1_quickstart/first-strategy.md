@@ -1,4 +1,4 @@
-# 建立第一個投資策略
+# 建立第一個投資策略 加油喔
 
 學會建立投資策略是使用 TQuant Lab 的核心技能。這裡將帶您從零開始，建立一個簡單但實用的投資策略。
 
@@ -21,8 +21,6 @@
 ```python
 import os
 import pandas as pd
-from zipline.api import *
-from zipline import run_algorithm
 
 # 設定 TEJ API
 os.environ['TEJAPI_KEY'] = "您的API金鑰"
@@ -31,6 +29,9 @@ os.environ['TEJAPI_BASE'] = "https://api.tej.com.tw"
 # 設定股票池：台灣50成分股前10名
 os.environ['ticker'] = '2330 2454 2412 2382 2881 2308 2303 1301 1303 2886'
 os.environ['mdate'] = '20230101 20231231'
+
+from zipline.api import *
+from zipline import run_algorithm
 
 # 下載資料
 !zipline ingest -b tquant
